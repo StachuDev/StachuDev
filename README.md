@@ -12,9 +12,8 @@
 <img src="https://github.com/StachuDev/StachuDev/assets/126360195/8d4ac84e-ff8c-4d23-936e-b9abb617ab4f" width="48">
 <img src="https://github.com/StachuDev/StachuDev/assets/126360195/d455fd2d-ddcf-4fb3-bf7d-8bf4f4174524" width="48">
 
-
+<br>
 🔭 I’m currently working on JS React project to share'ing images via link
 
-🌱 I’m currently learning TypeScript
 
 
