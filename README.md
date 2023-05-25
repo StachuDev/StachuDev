@@ -2,7 +2,6 @@
 
 ### ⚡Technologies I'm using :
 
-<img src="https://github.com/StachuDev/StachuDev/assets/126360195/4df99e23-2560-42f8-8b76-a57aefa0b428" width="48">
 <img src="https://github.com/StachuDev/StachuDev/assets/126360195/7baa744c-553c-401d-a3cf-603683c4da16" width="48">
 <img src="https://github.com/StachuDev/StachuDev/assets/126360195/1f66c770-54fb-44a6-9f5a-3ed4278e5994" width="48">
 <img src="https://github.com/StachuDev/StachuDev/assets/126360195/6ea282d7-1fe7-440b-ae78-3839c92ca7e6" width="48">
