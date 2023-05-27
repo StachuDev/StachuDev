@@ -11,7 +11,7 @@
 <img src="https://github.com/StachuDev/StachuDev/assets/126360195/6064aec0-c8a2-43ea-a220-0229bb0f6469" width="48">
 <img src="https://github.com/StachuDev/StachuDev/assets/126360195/8d4ac84e-ff8c-4d23-936e-b9abb617ab4f" width="48">
 <img src="https://github.com/StachuDev/StachuDev/assets/126360195/d455fd2d-ddcf-4fb3-bf7d-8bf4f4174524" width="48">
-<img src="https://github.com/StachuDev/StachuDev/assets/126360195/a62ab41e-8b19-4500-96d9-f1472c23250f" width="48">
+<img src="https://github.com/StachuDev/StachuDev/assets/126360195/586511a7-884b-4d2c-bc83-65be33f94fe8" width="48">
 
 \
 🔭 I’m currently working on JS React project to share'ing images via link
