@@ -2,8 +2,6 @@
 
 ### ⚡Technologies I'm using :
 
-[<img src="path/to/image.png">](https://link-to-your-URL/)
-
 ## Frontend
 [<img src="https://github.com/StachuDev/StachuDev/assets/126360195/5d08d9b8-723e-46d1-ae5e-885fb7aa4fe3" width="48">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://github.com/StachuDev/StachuDev/assets/126360195/6d033bfd-2745-4b8e-a89a-25580e2acfc1" width="48">](https://developer.mozilla.org/en-US/docs/Web/CSS)
